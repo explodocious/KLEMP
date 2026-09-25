@@ -1,0 +1,6 @@
+# KLEMP dependencies
+
+# HTTP requests and API communication
+requests
+
+# Future dependencies go below

@@ -147,7 +147,7 @@ requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/KLEMP.git
+git clone https://github.com/explodocious/KLEMP.git
 ```
 
 Enter the project directory:
